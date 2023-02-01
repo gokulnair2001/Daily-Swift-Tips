@@ -3,7 +3,7 @@ A developer friendly repo to learn tips and tricks of Swift Language. You can fi
 
 | Assert | Auto Closure | CaseIterable |   
 | --- | --- | -- |
-| <img src= "" width = 400, height = 200> </img> | <img src= "https://user-images.githubusercontent.com/56252259/216141445-903bf93e-848f-4c37-909a-541089f289f4.png" width = 400, height = 200> </img> | <img src= "https://user-images.githubusercontent.com/56252259/216141452-6a2d4267-68f6-443c-b65d-d3d7e99d6cac.png" width = 400, height = 200> </img> | 
+| <img src= "https://user-images.githubusercontent.com/56252259/216141044-e2155869-f8b9-4b9e-8150-2cd62c913108.png" width = 400, height = 200> </img> | <img src= "https://user-images.githubusercontent.com/56252259/216141445-903bf93e-848f-4c37-909a-541089f289f4.png" width = 400, height = 200> </img> | <img src= "https://user-images.githubusercontent.com/56252259/216141452-6a2d4267-68f6-443c-b65d-d3d7e99d6cac.png" width = 400, height = 200> </img> | 
 
 
 | Compact Map | Convenience Init | Convenience Init |
