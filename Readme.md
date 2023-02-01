@@ -1,4 +1,6 @@
 # Daily Swift Tips 💻
+A developer friendly repo to learn tips and tricks of Swift Language.
+You can find a new topic everyday in this repository✌🏻
 
 | Assert | Auto Closure | CaseIterable |   
 | --- | --- | -- |
