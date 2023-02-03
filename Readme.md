@@ -52,6 +52,6 @@ A developer friendly repo to learn tips and tricks of Swift Language. You can fi
 | --- | --- | -- |
 | <img src="https://user-images.githubusercontent.com/56252259/216144482-48acde2f-050d-430a-a7b1-a10415a7363c.png" width = 400, height = 200></img> | <img src="https://user-images.githubusercontent.com/56252259/216144319-f7911ecf-edfd-4228-a167-05a05e2ae04c.png" width = 400, height = 200></img> | <img src="https://user-images.githubusercontent.com/56252259/216144493-5e975b18-e76d-40d4-8c33-e49ccb300706.png" width = 400, height = 200></img> |
 
-| Zip | Get&Set | didset |
+| Zip | get & set | didSet |
 | --- | --- | -- |
 | <img src="https://user-images.githubusercontent.com/56252259/216144504-526384d7-55e6-4cca-a40d-d03509c57545.png" width = 400, height = 200></img> | <img src="https://user-images.githubusercontent.com/56252259/216251266-dc585c61-1082-4fd0-aa88-3afd79b3d871.png" width = 400, height = 200></img> | <img src="https://user-images.githubusercontent.com/56252259/216541612-2b03e06d-85bc-41fa-a71a-5e3e7706fecb.png" width = 400, height = 200></img> |
