@@ -60,4 +60,8 @@ A developer friendly repo to learn tips and tricks of Swift Language. You can fi
 | --- | --- | -- |
 | <img src="https://user-images.githubusercontent.com/56252259/216751309-99d3c30f-a821-4bae-9040-39aeb1decde9.png" width = 400, height = 200></img> | <img src="https://user-images.githubusercontent.com/56252259/216937661-6c780f36-4a90-4439-9132-8356aa99d282.png" width = 400, height = 200></img> | <img src="https://user-images.githubusercontent.com/56252259/217197563-45824f1c-a3b9-4921-9023-8276362850a7.png" width = 400, height = 200></img> |
 
+| allSatisfy | Soon! | Soon! |
+| --- | --- | -- |
+| <img src="https://user-images.githubusercontent.com/56252259/217464175-02a64492-d58e-4a47-b78d-f2d205bf53cc.png" width = 400, height = 200></img> | <img src="" width = 400, height = 200></img> | <img src="" width = 400, height = 200></img> | <img width="400" alt="" src="">
+
 
