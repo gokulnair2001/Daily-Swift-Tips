@@ -62,5 +62,5 @@ A developer friendly repo to learn tips and tricks of Swift Language. You can fi
 
 | allSatisfy | lazy | deinit |
 | --- | --- | -- |
-| <img src="https://user-images.githubusercontent.com/56252259/217464175-02a64492-d58e-4a47-b78d-f2d205bf53cc.png" width = 400, height = 200></img> | <img src="https://user-images.githubusercontent.com/56252259/217787555-1cfc174d-092d-4ed2-a9da-4f42ed86a497.png" width = 400, height = 200></img> | <img src="https://user-images.githubusercontent.com/56252259/218017670-d59a657d-1c40-4808-9e74-1361d3a9d055.png" width = 400, height = 200></img> |
+| <img src="https://user-images.githubusercontent.com/56252259/217464175-02a64492-d58e-4a47-b78d-f2d205bf53cc.png" width = 400, height = 200></img> | <img src="https://user-images.githubusercontent.com/56252259/217787555-1cfc174d-092d-4ed2-a9da-4f42ed86a497.png" width = 400, height = 200></img> | <img src="https://user-images.githubusercontent.com/56252259/218017670-d59a657d-1c40-4808-9e74-1361d3a9d055.png" width = 400, height = 200></img>|
 
